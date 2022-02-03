@@ -63,6 +63,7 @@ Developed AGILE skills and learned to use tools such as JIRA as well as a lot of
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/>
  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 </p>
+
 **And many others**
 
 <p align="center">  <a href="https://github.com/AiroaeiCatalin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiroaeiCatalin&amp;show_icons=true&amp;theme=dark" alt="Top Langs"  style="max-width: 100%;"></a>
