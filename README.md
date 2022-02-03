@@ -23,7 +23,7 @@ Developed AGILE skills and learned to use tools such as JIRA as well as a lot of
 
 - 🔭As for the moment, I am working on **Best auto deals app** which is an app where you can trade used cars.
 
-- 🌱 The technologies I'm currently using but also at the same time learning are **Java, html5, css3, javascript, postgresql, react.js, Spring Boot, Spring Security, typescript, javascript**
+- 🌱 The technologies I'm currently using but also at the same time learning are **Java, html5, css3, javascript, postgresql, react.js, Spring Boot, Spring Security, typescript**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -75,6 +75,8 @@ Developed AGILE skills and learned to use tools such as JIRA as well as a lot of
   </h2>
    - **Due to a small bug(I didn't set my global email in github from the terminal and my mail address was set on private, all my commits from codecool don't appear, that's why I have almost no commits lately. The repos are private but i will start cloning the important ones now that I solved the issue. I should have somewhere around 800-1000 commits since 2021.** 
   - **I will keep adding to git what I continue working but also some old projects of mine that I didn't use github for versioning, some of them can be found on my bitbucket and some I will constantly add them to git. So be sure to check out my profile constantly.** 
+
+- 🌱 The technologies I'm currently using but also at the same time learning are **Java, html5, css3, javascript, postgresql, react.js, Spring Boot, Spring Security, typescript, javascript**
   <br />
   <p align="center">
   <img align="center" src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
