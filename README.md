@@ -21,7 +21,7 @@ Developed AGILE skills and learned to use tools such as JIRA as well as a lot of
 <h3>Currently studying at Codecool Academy!</h3>
 
 
-- 🔭As for the moment, I am working on **Best auto deals app** which is an app where you can trade used cars.
+- 🔭 As for the moment, I am working on **Best auto deals app** which is an app where you can trade used cars.
 
 - 🌱 The technologies I'm currently using but also at the same time learning are **Java, html5, css3, javascript, postgresql, react.js, Spring Boot, Spring Security, typescript**
 
@@ -32,7 +32,7 @@ Developed AGILE skills and learned to use tools such as JIRA as well as a lot of
 <a href="mailto:airoaei.catalin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:silviubocsa@gmail.com" style="max-width: 100%;"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻  Tehcnologies:</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
