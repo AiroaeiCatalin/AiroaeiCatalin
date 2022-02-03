@@ -26,7 +26,7 @@ Developed AGILE skills and learned to use tools such as JIRA as well as a lot of
 - 🌱 The technologies I'm currently using but also at the same time learning are **Java, html5, css3, javascript, postgresql, react.js, Spring Boot, Spring Security, typescript**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">☎️ Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/airoaei-catalin/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/silviu-bocsa/" style="max-width: 100%;"></a>
 <a href="mailto:airoaei.catalin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:silviubocsa@gmail.com" style="max-width: 100%;"></a>
