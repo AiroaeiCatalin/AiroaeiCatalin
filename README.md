@@ -1,91 +1,202 @@
-<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
-</p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AiroaeiCatalin&label=Profile%20views&color=0e75b6&style=flat" alt="knutz" /> 
-</p>
-</p>
-<hr>
-
-<h1>👋 Hi, my name is Airoaei Catalin and I am a 25 years old programming enthusiast</h1>
-<p>
-The passion for web development arose from my university days at UTCN, there I have studied Computer Science, so I got to know computers pretty well as a whole, as I have studied all kinds of topics such as AI, Image Processing, Computer Graphics and Interactive Systems, Operating Systems, Computer Architecture, Arduino and also other very intriguing subjects. Even though all these aforementioned topics sound very interesting, the one that intrigued me the most was web development, hence I decided I want to improve and learn new technologies that can help me develop beautiful and intriguing web applications. I like paying attention even to the smallest details, I like building my apps simple but good looking and modern. I like challanges and am always eager to accumulate more knowledge as I can adapt with ease at new situations.
-
-<h1> 💼  Previous experience: </h1>
-I have worked 10 months as a System Integrator and also a little bit as an Embedded C developer at Magneti Marelli in Cluj-Napoca, where I have learned how to work and communicate with other people.
-Developed AGILE skills and learned to use tools such as JIRA as well as a lot of Git branching and merging, and managing knowledge.
-- Took care of daily deliveries of Software Product
-- Used GIT as versioning tool
-- Created automatization scripts in Bash and Python
-
-<h3>Currently studying at Codecool Academy!</h3>
+<!-- PROJECT LOGO -->
 
 
-- 🔭 As for the moment, I am working on **Best auto deals app** which is an app where you can trade used cars.
+  <h3 align="center">Best Auto Deals</h3>
 
-- 🌱 The technologies I'm currently using but also at the same time learning are **Java, html5, css3, javascript, postgresql, react.js, Spring Boot, Spring Security, typescript**
-
-
-<h3 align="left">☎️ Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/airoaei-catalin/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/silviu-bocsa/" style="max-width: 100%;"></a>
-<a href="mailto:airoaei.catalin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:silviubocsa@gmail.com" style="max-width: 100%;"></a>
-</p>
-
-<h3 align="left">💻  Tehcnologies:</h3>
-<p align="left"> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
- <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/>
- <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" />
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
- <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra"/>
- <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
- <img src="https://img.shields.io/badge/Bulma-%234ED1C5.svg?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma"/>
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter"/>
- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
- <img src="https://img.shields.io/badge/Hibernate-232F3E?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate"/>
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="react"/>
- <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
- <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
- <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/>
- <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="opengl"/>
- <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/>
- <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
-</p>
-
-**And many others**
-
-<p align="center">  <a href="https://github.com/AiroaeiCatalin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiroaeiCatalin&amp;show_icons=true&amp;theme=dark" alt="Top Langs"  style="max-width: 100%;"></a>
-</p>
-<p>
-  
-  <br />
-  <h2 align="center"> 
-		⚠️Notes⚠️
-  </h2>
-
-
-- **Due to a small bug(I didn't set my global email in github from the terminal and my mail address was set on private, all my commits from codecool don't appear, that's why I have almost no commits lately. The repos are private but i will start cloning the important ones now that I solved the issue. I should have somewhere around 800-1000 commits since 2021.**
-
-- **I will keep adding to git what I continue working but also some old projects of mine that I didn't use github for versioning, some of them can be found on my bitbucket and some I will constantly add them to git. So be sure to check out my profile constantly.**
-  <br />
   <p align="center">
-  <img align="center" src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+    An awesome app to use if you want to buy a car:
+    <br />
+    <a href="https://github.com/AiroaeiCatalin/Car-Sales-App"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/AiroaeiCatalin/Car-Sales-App">View Demo</a>
+    ·
+    <a href="https://github.com/AiroaeiCatalin/Car-Sales-App/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/AiroaeiCatalin/Car-Sales-App/issues">Request Feature</a>
   </p>
-</p>
 
-<!---
-AiroaeiCatalin/AiroaeiCatalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+BestAutoDeals is an online web-application built with React, Spring and many other frameworks and technologies, where you can find very good deals if you are interested in buying an used car. The application is very intuitive and easy to use for any user that wants to look for a car
+
+Here's why:
+* Customers can create an account
+* Customers can add a new ad if they want to sell a car
+* Customers can filter through cars from our database
+* Customers can add Cars to their wishlists and then they can contact via phone the owner in order to make an offer
+
+
+### Built With
+
+#### Backend
+* [Spring Boot (WebSocket/JPA)](https://spring.io/projects/spring-boot)
+* [Lombok](https://projectlombok.org/)
+* [PostgreSQL](https://www.postgresql.org/docs/13/app-psql.html)
+
+#### Frontend
+* [React](https://reactjs.org/)
+* [Bulma](https://bulma.io/)
+* [npm](https://www.npmjs.com/)
+
+#### Version control
+* [Github](https://www.gtihub.com/)
+
+#### Project Management
+* [Trello](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=89541897982&campaign=9124878150&creative=415542514747&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51242161283&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTIUjm6m9LQssN_d15V_dYNqPiWaS_df09mdcnHPj-QkqTKrZfAjB6kaAhdEEALw_wcB&gclsrc=aw.ds)
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This application can be tested by installing all prerequisites, clone both the back end and the client app, running them and enjoy!
+
+### Prerequisites
+
+All prerequisites must be installed, accordingly to the technologies used in this project, for example:
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+* Backend
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/AiroaeiCatalin/Car-Sales-App
+   ```
+2. Run the server
+
+* Frontend
+
+1. Clone the customer repo
+   ```sh
+	https://github.com/AiroaeiCatalin/Car-Sales-App   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run the app
+   ```
+    npm start
+   ```
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Further I will shortly name, describe and visualize some main features of the app.
+### Customer application
+* Customers can create an account, browse, view and filter through various cars
+
+![homepage](https://user-images.githubusercontent.com/37214035/152346294-bd4fdf8b-19c3-42e7-9be5-fce4617b23a2.png)
+
+![homepage2](https://user-images.githubusercontent.com/37214035/152346421-788072ea-bf9c-4c2d-ba80-952669fa356c.png)
+* Customers can filter through cars
+![filter](https://user-images.githubusercontent.com/37214035/152347448-0ee5cae7-2bd1-4ee9-9cd9-b6e1ce86b978.png)
+* Customers can log in, add a new ad, and log out
+![login](https://user-images.githubusercontent.com/37214035/152347806-640ad6ee-96d4-42c9-aa0d-c63fb7ba1a99.png)
+* Customers can add cars to their wishlists
+![wishlist](https://user-images.githubusercontent.com/37214035/152358645-bfd923d5-2e4c-43f5-a223-91f64a23670c.png)
+
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+The project development took place through 8 Agile iterations, each iteration taking 5 days. A short complete roadmap bellow:
+
+![agile-logo](https://user-images.githubusercontent.com/72221647/138440913-f67be820-c3a8-46d2-a35c-1f847acb2c48.png)
+
+
+* Sprint 1: Created core backend objects, services and controllers 
+* Sprint 2: Started building the UI for customer app
+* Sprint 3: Started styling the UI for customer app
+* Sprint 4: Created the host app frontend
+* Sprint 5: Built more functionalities for each app (customer and host)
+* Sprint 6: Refactored code, fixed various bugs, added CSS styling
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- CONTACT -->
+## Contact
+
+Airoaei Catalin - [@My Github](https://github.com/AiroaeiCatalin) [@My LinkedIn](https://www.linkedin.com/in/airoaei-catalin/) - airoaei.catalin@gmail.com
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Codecool Romania :thumbsup:](https://codecool.com/ro/)
+* [React Documentation](https://reactjs.org/)
+* [Spring Documentation](https://docs.spring.io/)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/badge/Contributers-2-brightgreen
+[contributors-url]: https://github.com/marius-ceobanu/Poke-Battlez-Frontend/graphs/contributors
+[forks-shield]: https://img.shields.io/badge/Forks-0-blue
+[forks-url]: https://github.com/marius-ceobanu/Poke-Battlez-Frontend/network/members
+[stars-shield]: https://img.shields.io/badge/Stars-2-blue
+[stars-url]: https://github.com/marius-ceobanu/Poke-Battlez-Frontend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marius-ceobanu/Poke-Battlez-Frontend
+[issues-url]: https://github.com/marius-ceobanu/Poke-Battlez-Frontend/issues
+[linkedin-shield]: https://img.shields.io/twitter/url?label=Linkedin%20-%20Marius&logo=LINKEDIN&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarius-ciprian-ceobanu-3431157b
+[linkedin-marius-url]: https://www.linkedin.com/in/marius-ciprian-ceobanu-3431157b
+[github-marius-shield]: https://img.shields.io/twitter/url?label=GitHub%20-%20Marius&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2Fmarius-ceobanu
+[github-marius-url]: https://github.com/marius-ceobanu
+[github-razvan-shield]: https://img.shields.io/twitter/url?label=GitHub%20-%20Razvan&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2Frgrigore
+[github-razvan-url]: https://github.com/rgrigore
+[chat-png]: doc_images/chat.png
+[register-png]: doc_images/register.png
+[login-png]: doc_images/login.png
+[login-gif]: doc_images/login.gif
+[PM-gif]: doc_images/PM.gif
+[team-gif]: doc_images/team.gif
+[challenge-gif]: doc_images/challenge.gif
+[battle-gif]: doc_images/battle.gif
+[agile]: doc_images/agile-logo.png
