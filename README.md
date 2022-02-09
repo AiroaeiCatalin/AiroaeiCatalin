@@ -63,6 +63,8 @@ Developed AGILE skills and learned to use tools such as JIRA as well as a lot of
  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="opengl"/>
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/>
  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
+ <img src="https://img.shields.io/badge/wordpress-316192.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
+
 </p>
 
 **And many others**
