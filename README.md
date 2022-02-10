@@ -91,7 +91,7 @@ Here is a screenshot with an example:**
 </br>
   <img width="553" alt="Screenshot 2022-02-10 at 14 25 22" src="https://user-images.githubusercontent.com/37214035/153408361-6ce999f1-aa5c-4634-9462-d745476be2e0.png">
 
-  Now you can see I have one commit on 18th of May which would not count if I wouldn't have amended it. I would have to do this to all 1000 commits and I will try to do it with most of them.
+  Now you can see that I have one commit on 18th of May which would not count if I wouldn't have amended it. I have to do this for all my 1000 commits.
 
-- **I will keep adding to git what I continue working on but also some old projects of mine that I didn't use github for versioning, some of them can be found on my bitbucket and some I will keep constantly adding them to git. So be sure to check out my profile regularly.**
+- **I will keep adding to git what I continue working on but also some old projects of mine that I didn't use github for versioning, some of them can be found on my bitbucket and some I will keep constantly cloning them to git. So be sure to check out my profile regularly.**
   <br />
