@@ -83,15 +83,15 @@ Developed AGILE skills and learned to use tools such as JIRA as well as a lot of
 Here is a screenshot with an example:**
 <img width="1286" alt="Screenshot 2022-02-10 at 14 14 33" src="https://user-images.githubusercontent.com/37214035/153406795-3b293ba4-1ea5-4349-b711-023b68ca4696.png">
 
-Another one before amending:
+  Another one before amending:
 </br>
-<img width="486" alt="Screenshot 2022-02-10 at 14 16 38" src="https://user-images.githubusercontent.com/37214035/153408351-7591f45b-aa49-4301-a033-ef77947d43f2.png">
+  <img width="486" alt="Screenshot 2022-02-10 at 14 16 38" src="https://user-images.githubusercontent.com/37214035/153408351-7591f45b-aa49-4301-a033-ef77947d43f2.png">
 
-After amending with author changed: 
+  After amending with author changed: 
 </br>
-<img width="553" alt="Screenshot 2022-02-10 at 14 25 22" src="https://user-images.githubusercontent.com/37214035/153408361-6ce999f1-aa5c-4634-9462-d745476be2e0.png">
+  <img width="553" alt="Screenshot 2022-02-10 at 14 25 22" src="https://user-images.githubusercontent.com/37214035/153408361-6ce999f1-aa5c-4634-9462-d745476be2e0.png">
 
-Now you can see I have one commit on 18th of May which would not count if I wouldn't have amended it. I would have to do this to all 1000 commits and I will try do do it with most of them.
+  Now you can see I have one commit on 18th of May which would not count if I wouldn't have amended it. I would have to do this to all   1000 commits and I will try to do it with most of them.
 
 - **I will keep adding to git what I continue working but also some old projects of mine that I didn't use github for versioning, some of them can be found on my bitbucket and some I will constantly add them to git. So be sure to check out my profile constantly.**
   <br />
